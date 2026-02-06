@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+openai
+anthropic
+python-multipart
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+cryptography
+PyMuPDF
+openpyxl
